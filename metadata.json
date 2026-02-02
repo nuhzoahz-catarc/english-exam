@@ -1,0 +1,7 @@
+{
+  "name": "天津中考英语通",
+  "description": "专为天津中考学生设计的英语学习应用。包含图文并茂的单词记忆功能和首字母填空专项练习。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
